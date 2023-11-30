@@ -4,6 +4,7 @@ int main (){
     long int n  ;
     cin>> n ;
     cout<<n<<" "; 
+    //loop for executing operations given while n is not equal to 1.
     while(n!=1){
         if(n%2==0){
             n=n /2 ; 
