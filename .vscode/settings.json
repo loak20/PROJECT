@@ -3,6 +3,9 @@
         "cstdlib": "cpp",
         "iostream": "cpp",
         "cmath": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "vector": "cpp"
     }
 }

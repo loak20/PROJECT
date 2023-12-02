@@ -1,4 +1,3 @@
-//hint liya tha 
 #include<iostream>
 using namespace std ;
 int main(){
@@ -8,7 +7,7 @@ int main(){
         cout<<"1" ; 
     }
     else if(n==2 or n==3){
-        cout<<"NO SOLUTION" ; 
+        cout<<"NO SOLUTION" ;                               //hint liya tha for this problem
     }
     else if(n==4){
         cout<<"3"<<" "<<"1"<<" "<<"4"<<" "<<"2" ; 
