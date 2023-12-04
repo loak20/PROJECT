@@ -5,7 +5,7 @@ int main () {
     
     cin>> n ;
  
-    for(long long int i = 0 ; i<n;i++){
+    for(long long int i = 0 ; i<n;i++){ 
 a= (2*a)%m ;
     } 
     cout<<a ; 
