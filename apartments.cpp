@@ -16,8 +16,8 @@ for(long long int j= 0 ;j<m;j++){
     cin>>bi ; 
 b.push_back(bi) ; 
 }
-sort(a.begin(),a.end()) ;                  //hint lekar sorting approach use kiya . 
-sort(b.begin(),b.end()) ; 
+sort(a.begin(),a.end()) ;                  //hint lekar sorting approach use kiya .(but i need some more clarity 
+sort(b.begin(),b.end()) ;                         // on the approach )  .
 while(i<n and j<m){
 if(abs(a[i]-b[j])<=k){
     c++ ;                                      //apartment found , move to next applicant and next apartment . 
