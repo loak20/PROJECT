@@ -22,7 +22,7 @@ while(b<n && a<m){
             if(h[i]==t[a]){
                 temp = i ; 
             }
-            else{
+            else{                                //time limit exceeding for this code
                 temp = b ; 
             }
         }
